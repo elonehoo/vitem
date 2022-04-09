@@ -1,18 +1,25 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "useDefineForClassFields": true,
+    "baseUrl": ".",
     "module": "ESNext",
-    "lib": ["ESNext", "DOM"],
-    "moduleResolution": "Node",
+    "target": "es2016",
+    "lib": ["DOM", "ESNext"],
     "strict": true,
-    "sourceMap": true,
-    "resolveJsonModule": true,
     "esModuleInterop": true,
-    "noEmit": true,
+    "incremental": false,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noImplicitReturns": true
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": [
+      "vite/client",
+      "vite-plugin-pages/client"
+    ],
+    "paths": {
+      "~/*": ["src/*"]
+    }
   },
-  "include": ["src", "vite-env.d.ts"]
+  "exclude": ["dist", "node_modules"]
 }

@@ -2,7 +2,7 @@
 <img src="./public/logo.svg" height="150">
 </p>
 
-<h1 align="center">Vitetem-Life</h1>
+<h1 align="center">Vitetem</h1>
 
 ## Features
 
