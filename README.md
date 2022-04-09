@@ -56,15 +56,15 @@
 
 ## Try it now!
 
-[Create a repo from this template on GitHub](https://github.com/elonehoo/ts-projects/generate).
+[Create a repo from this template on GitHub](https://github.com/elonehoo/vitetem/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit elonehoo/ts-projects my-ts-projects-app
-cd my-ts-projects-app
+npx degit elonehoo/vitetem my-vitetem-app
+cd my-vitetem-app
 pnpm install # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 
