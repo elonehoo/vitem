@@ -6,11 +6,21 @@
 
 ## Features
 
-- ⚡️ Vite 2, pnpm - born with fastness
+- ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite 2](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
 
-- 📃 Use Vitepress for static site generation
+- 🗂 [File based routing](./src/pages)
 
-- ✅ Use Vitest for unit and components testing
+- 📦 [Components auto importing](./src/components)
+
+- 🎨 [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+
+- 😃 Use icons from any icon sets in [Pure CSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+
+- 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227)
+
+- 📃 Use [Vitepress](https://github.com/vuejs/vitepress) for static site generation
+
+- ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
 
 - 🦾 TypeScript, of course
 
@@ -18,6 +28,26 @@
 
 - [extensions.json](https://github.com/elonehoo/ts-projects/blob/main/.vscode/extensions.json)
 - [settings.json](https://github.com/elonehoo/ts-projects/blob/main/.vscode/settings.json)
+
+## Pre-packed
+
+### UI Frameworks
+
+- [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+
+### Icons
+
+- [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
+- [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
+
+### Plugins
+
+- [Vue Router](https://github.com/vuejs/vue-router)
+  - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based routing
+- [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use Vue Composition API and others without importing
+- [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
+- [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
+
 
 ## Try it now!
 
