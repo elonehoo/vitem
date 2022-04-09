@@ -1,0 +1,15 @@
+{
+  "name": "vitetem-life",
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Elone Hoo <huchengyea@163.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.0"
+  }
+}
