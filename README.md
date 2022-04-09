@@ -50,7 +50,7 @@
 
 ## Also
 
-[Vitetem-Life](https://github.com/elonehoo/vitetem-life)
+[Vitetem Life](https://github.com/elonehoo/vitetem-life)
 
 [Vitetem Mini](https://github.com/elonehoo/vitetem-mini)
 
