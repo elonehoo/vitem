@@ -10,7 +10,6 @@ const go = () => {
 
 <template>
   <div>
-    <div i-carbon:auto-scroll text-4xl inline-block />
     <img src="/favicon.svg" alt="logo" text-4xl inline-block>
     <p>
       <a rel="noreferrer" href="https://github.com/xiaoxunyao/viden" target="_blank">
