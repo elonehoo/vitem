@@ -48,9 +48,12 @@
 - [`unplugin-vue-components`](https://github.com/antfu/unplugin-vue-components) - components auto import
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 
+## Also
+
+[Vitetem-Life](https://github.com/elonehoo/vitetem-life)
+[Vitetem Mini](https://github.com/elonehoo/vitetem-mini)
 
 ## Try it now!
-
 
 [Create a repo from this template on GitHub](https://github.com/elonehoo/ts-projects/generate).
 
