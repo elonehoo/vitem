@@ -1,4 +1,5 @@
 <script setup lang="ts">
+const props = defineProps<{ githubLink: string }>()
 function toggleDark() {
   const isDark = document.documentElement.classList.toggle('dark')
   localStorage.setItem('color-schema', isDark ? 'dark' : 'light')
@@ -10,6 +11,6 @@ function toggleDark() {
     <button class="icon-btn" @click="toggleDark()">
       <div class="i-carbon-sun dark:i-carbon-moon" />
     </button>
-    <a href="https://github.com/elonehoo/vitem-mini" target="_blank" class="icon-btn i-carbon-logo-github" />
+    <a :href="props.githubLink" target="_blank" class="icon-btn i-carbon-logo-github" />
   </nav>
 </template>
