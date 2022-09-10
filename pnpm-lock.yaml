@@ -15,7 +15,7 @@ importers:
       '@vitem/main': workspace:*
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       typescript: 4.8.3
       unbuild: 0.8.9
@@ -37,7 +37,7 @@ importers:
       '@vitem/main': link:packages/main
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       typescript: 4.8.3
       unbuild: 0.8.9
@@ -61,7 +61,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1
       typescript: 4.8.3
@@ -82,7 +82,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1_fvhkjzuicp3padoxzsqmc5c2da
       typescript: 4.8.3
@@ -102,7 +102,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1
       typescript: 4.8.3
@@ -123,7 +123,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1_fvhkjzuicp3padoxzsqmc5c2da
       typescript: 4.8.3
@@ -143,7 +143,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1
       typescript: 4.8.3
@@ -164,7 +164,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1_fvhkjzuicp3padoxzsqmc5c2da
       typescript: 4.8.3
@@ -184,7 +184,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1
       typescript: 4.8.3
@@ -205,7 +205,7 @@ importers:
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
       eslint: 8.22.0
-      pnpm: 7.9.5
+      pnpm: 7.11.0
       rimraf: 3.0.2
       ts-node: 10.9.1_fvhkjzuicp3padoxzsqmc5c2da
       typescript: 4.8.3
@@ -3650,8 +3650,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /pnpm/7.9.5:
-    resolution: {integrity: sha512-+r7+PlBIsblqia8eUOUsBp/R+lHmGAm55jyQRt3DWMUI0srVR1aNJhQECfx24L53Ckz9g48mVxQXEniQMWQPmw==}
+  /pnpm/7.11.0:
+    resolution: {integrity: sha512-cxh4TfCE8L4ZbLBN72kTGKTYP7X08nrIzoQ2rQCKihAcIHAdNIgsk4bEJyE1xHjE+bNJt9skwr7aJv3LpvUawQ==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
