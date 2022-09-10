@@ -23,7 +23,7 @@ importers:
       vite: 3.0.9
       vitest: 0.22.1
       vue: 3.2.37
-      vue-router: 4.1.4
+      vue-router: 4.1.5
       vue-tsc: 0.40.13
     devDependencies:
       '@elonehoo/eslint-config': 2.0.0_76twfck5d7crjqrmw4yltga7zm
@@ -45,7 +45,7 @@ importers:
       vite: 3.0.9
       vitest: 0.22.1
       vue: 3.2.37
-      vue-router: 4.1.4_vue@3.2.37
+      vue-router: 4.1.5_vue@3.2.37
       vue-tsc: 0.40.13_typescript@4.8.3
 
   example:
@@ -4499,8 +4499,8 @@ packages:
       - supports-color
     dev: true
 
-  /vue-router/4.1.4_vue@3.2.37:
-    resolution: {integrity: sha512-UgYen33gOtwT3cOG1+yRen+Brk9py8CSlC9LEa3UjvKZ4EAoSo8NjZPDeDnmNerfazorHIJG1NC7qdi1SuQJnQ==}
+  /vue-router/4.1.5_vue@3.2.37:
+    resolution: {integrity: sha512-IsvoF5D2GQ/EGTs/Th4NQms9gd2NSqV+yylxIyp/OYp8xOwxmU8Kj/74E9DTSYAyH5LX7idVUngN3JSj1X4xcQ==}
     peerDependencies:
       vue: ^3.2.0
     dependencies:
