@@ -7,7 +7,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3
       '@vitem/error': workspace:*
       '@vitem/footer': workspace:*
@@ -29,7 +29,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3_vite@3.1.0+vue@3.2.37
       '@vitem/error': link:packages/error
       '@vitem/footer': link:packages/footer
@@ -56,7 +56,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -77,7 +77,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3_vite@3.1.0+vue@3.2.37
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -97,7 +97,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -118,7 +118,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3_vite@3.1.0+vue@3.2.37
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -138,7 +138,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -159,7 +159,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3_vite@3.1.0+vue@3.2.37
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -179,7 +179,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -200,7 +200,7 @@ importers:
       '@elonehoo/eslint-config': 2.0.0_itqs5654cmlnjraw6gjzqacppi
       '@iconify-json/carbon': 1.1.7
       '@types/node': 18.7.13
-      '@unocss/reset': 0.45.12
+      '@unocss/reset': 0.45.18
       '@vitejs/plugin-vue': 3.0.3_vite@3.1.0+vue@3.2.37
       '@vue/compiler-sfc': 3.2.37
       bumpp: 8.2.1
@@ -1083,10 +1083,6 @@ packages:
     dependencies:
       '@unocss/core': 0.45.18
       '@unocss/preset-mini': 0.45.18
-    dev: true
-
-  /@unocss/reset/0.45.12:
-    resolution: {integrity: sha512-4HldzkLErjp90W9RMkMgnDbFQzZNz+cpLTB/3Wnj9UqvIBYAZ+gfZ7Y7YEntFKmHLMV1W+6emnuMNI4qS3B0Jg==}
     dev: true
 
   /@unocss/reset/0.45.18:
