@@ -21,7 +21,7 @@
     "@iconify-json/carbon": "1.1.7",
     "@types/node": "18.7.13",
     "@unocss/reset": "0.45.18",
-    "@vitejs/plugin-vue": "3.1.0",
+    "@vitejs/plugin-vue": "4.1.0",
     "@vitem/error": "workspace:*",
     "@vitem/footer": "workspace:*",
     "@vitem/hi": "workspace:*",
